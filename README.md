@@ -33,7 +33,7 @@ Caso tenha interesse em conhecer o tutorial básico de Java com Maven, [acesse a
 |LOGO           |STACK                              |FUNÇÃO                       |
 |---------------|-----------------------------------|-----------------------------|
 | ![Java 17](assets/icons/java-logo-icon.png) | `Java 17` | Linguagem de programação escolhida para o desenvolvimento do Back-end da aplicação |
-| ![Maven](assets/icons/apache-maven-icon.png) | `Maven 4.0` | Ferramenta de gerenciamento para o build de código-fonte (construção dos artefatos para sua execução), pois padroniza o gerenciamento de dependências, a execução dos testes, o build e deploy da aplicação |
+| ![Maven](assets/icons/apache-maven-icon.png) | `Maven 3.6.0` | Ferramenta de gerenciamento para o build de código-fonte (construção dos artefatos para sua execução), pois padroniza o gerenciamento de dependências, a execução dos testes, o build e deploy da aplicação |
 | ![MySQL 8.0](assets/icons/mysql-logo-icon.png)  | `MySQL 8.0.32` | Gerenciador de Banco de Dados de código aberto |
 | ![Package Hierarchy](assets/icons/img-hierarquia.png)  | `Hierarquia de Pacotes` | Organização dos diretórios (pastas do projeto) dentro de responsabilidades específicas para cada uma das entidades implementadas |
 
